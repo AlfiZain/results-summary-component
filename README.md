@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/result-summary-component-with-react-SBjI29Ejo4)
-- Live Site URL: [Add live site URL here](https://results-summary-component-alfi.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-with-react-SBjI29Ejo4](https://www.frontendmentor.io/solutions/result-summary-component-with-react-SBjI29Ejo4)
+- Live Site URL: [https://results-summary-component-alfi.vercel.app/](https://results-summary-component-alfi.vercel.app/)
 
 ## My process
 
